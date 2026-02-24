@@ -755,3 +755,5 @@ class Textract:
             flat_stats[key] = value
         
         return flat_stats
+
+    
